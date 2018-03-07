@@ -1,0 +1,25 @@
+1,0.00,,0,Project command:e:\as\FenBao/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false;quickcompile=true
+Project configuration:e:\as\FenBao/.actionScriptProperties.
+1,0.00,,0,output path:e:/as/FenBao/bin/h5/
+1,0.00,,0,Main Class:e:/as/FenBao/src/GameLoader.as
+1,0.00,,0,output file:GameLoader
+1,0.00,,0,compilerSourcePath e:/as/FenBao/libs/laya/src/
+
+1,0.00,,0,compilerSourcePath e:/as/FenBao/modules/class/src/
+
+1,0.00,,0,Compile Path:e:/as/FenBao/src/
+
+1,0.00,,0,Compile Path:e:/as/FenBao/libs/laya/src/
+
+1,0.00,,0,Compile Path:e:/as/FenBao/modules/class/src/
+
+1,0.00,e:/as/FenBao/src,0,Collect
+1,0.00,e:/as/FenBao/libs/laya/src,0,Collect
+1,0.00,e:/as/FenBao/modules/class/src,0,Collect
+1,2.00,,0,read class message
+1,89.77,,0,Disable Flash3D e:/as/FenBao/src/GameLoader.as
+12,89.77,e:/as/FenBao/bin/h5/GameLoader.max.js,810367,
+12,89.77,e:/as/FenBao/bin/h5/js/maingame.js,3305,
+11,89.77,e:/as/FenBao/bin/h5/GameLoader.max.html,893,
+******************************************************************************
+14,89.77,,0,
